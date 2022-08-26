@@ -1,5 +1,5 @@
 let num1 = 1
-let num2 = 10
+let num2 = 9
 let cont = 1
 
 while (num1 <= num2)
